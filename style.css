@@ -1,0 +1,25 @@
+body{
+    background-color: paleturquoise;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: medium;
+    color: blueviolet;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin: 90px;
+}
+.cabecalho{
+    background-color: brown;
+    display: flex;
+}
+.logoin{
+    width: 300px;
+    height: 300px;
+}
